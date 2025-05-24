@@ -26,3 +26,4 @@ A simple, interactive calculator built using HTML, CSS, and JavaScript. This pro
 1. Clone the repository:
    ```bash
    git clone https://github.com/Ayesha-Nadeem27/Calculator
+2. Open the index.html file in your browser.
